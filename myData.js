@@ -1,3 +1,3 @@
-let myArray = [50 60 70]
-let myData = (myArray[0]);
+let myArray = ('50 60 70')
+let myData = (myArray);
 console.log(myData);
